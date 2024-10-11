@@ -1,0 +1,28 @@
+# Python バイトコード
+__pycache__/
+*.pyc
+*.pyo
+
+# 仮想環境
+env/
+venv/
+.venv/
+
+# pipenv と poetry
+Pipfile.lock
+poetry.lock
+
+# IDEの設定
+.vscode/
+.idea/
+
+# 環境変数ファイル
+.env
+
+# テストカバレッジレポート
+htmlcov/
+.coverage
+*.log
+
+# pyenv に関連するファイル
+.pyenv/
