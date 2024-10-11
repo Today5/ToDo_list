@@ -26,3 +26,6 @@ htmlcov/
 
 # pyenv に関連するファイル
 .pyenv/
+
+# macOS の .DS_Store ファイルを無視
+.DS_Store
