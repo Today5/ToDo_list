@@ -1,7 +1,20 @@
 [
     {
         "task": "そうじ",
-        "due_date": "2024-08-23",
+        "due_date": "2024-09-13",
+        "priority": "高",
+        "completed": false
+    },
+    {
+        "task": "風呂そうじ",
+        "due_date": "2024-01-01",
+        "priority": "低",
+        "completed": false
+    },
+    {
+        "task": "exit]",
+        "due_date": "2024-08-08",
+        "priority": "高",
         "completed": false
     }
 ]
